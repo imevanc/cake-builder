@@ -19,3 +19,7 @@
 - Simple line icons for cake types, customization options, and basket interactions, ensuring clarity without visual clutter.
 - Clean and minimalist layout to focus user attention on cake selection and customization, and ensure effortless navigation. A grid format would showcase the cakes and design components effectively.
 - Subtle animations on adding items to the basket and during the cake building process to enhance user engagement without distracting from the core experience.
+
+
+https://github.com/user-attachments/assets/24c05754-0ee8-4dec-8d47-178afba3f1ed
+
